@@ -1,0 +1,1 @@
+/home/andriypuhach/programming/prog_projects/cpp/clion-ide/ClionProjects/graph_lab4/CMakeFiles/graph_lab4.dir

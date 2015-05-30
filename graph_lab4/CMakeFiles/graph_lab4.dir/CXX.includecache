@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/andriypuhach/programming/prog_projects/cpp/clion-ide/ClionProjects/graph_lab4/main.cpp
+planetary.h
+/home/andriypuhach/programming/prog_projects/cpp/clion-ide/ClionProjects/graph_lab4/planetary.h
+
+/home/andriypuhach/programming/prog_projects/cpp/clion-ide/ClionProjects/graph_lab4/planetary.cpp
+planetary.h
+/home/andriypuhach/programming/prog_projects/cpp/clion-ide/ClionProjects/graph_lab4/planetary.h
+
+/home/andriypuhach/programming/prog_projects/cpp/clion-ide/ClionProjects/graph_lab4/planetary.h
+GL/freeglut.h
+-
+SOIL/SOIL.h
+-
+map
+-
+math.h
+-
+

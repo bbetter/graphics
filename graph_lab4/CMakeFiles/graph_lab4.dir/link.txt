@@ -1,0 +1,1 @@
+/usr/bin/c++       CMakeFiles/graph_lab4.dir/main.cpp.o CMakeFiles/graph_lab4.dir/planetary.cpp.o  -o /home/andriypuhach/graph_lab4 -rdynamic -L/usr/lib/nvidia-331 -lGLU -lGL -lSM -lICE -lX11 -lXext -lglut -lXmu -lXi -lSOIL 
